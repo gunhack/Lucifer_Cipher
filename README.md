@@ -2,4 +2,4 @@
 
 Implementación del cifrado Lucifer en c++
 
-[Ver códogo orininal(Perl)](https://metacpan.org/pod/Crypt::Lucifer)
+[Ver códogo original(Perl)](https://metacpan.org/pod/Crypt::Lucifer)
